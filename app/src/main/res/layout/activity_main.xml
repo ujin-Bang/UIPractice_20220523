@@ -82,6 +82,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:checked="true"
+        android:visibility="gone"
         android:text="개인정보 제공에 동의합니다." />
 
     <LinearLayout
